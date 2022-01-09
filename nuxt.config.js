@@ -15,5 +15,8 @@ export default {
         color: '#fff'
     },
     srcDir: 'client/',
-    pageTransition: 'page'
+    pageTransition: 'page',
+    css: [
+        '@assets/styles/scss/main.scss'
+    ]
 }

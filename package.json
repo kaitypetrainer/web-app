@@ -7,5 +7,9 @@
     },
     "dependencies": {
         "nuxt": "^2.15.8"
+    },
+    "devDependencies": {
+        "sass": "^1.47.0",
+        "sass-loader": "10"
     }
 }
