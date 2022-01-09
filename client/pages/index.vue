@@ -1,0 +1,3 @@
+<template>
+    <h1>Hello world2!</h1>
+</template>
